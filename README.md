@@ -5,7 +5,7 @@
 ## Overview
 
 AutoGitCommit is a script designed to help you automatically generate commits in your repository, ensuring your GitHub activity graph remains consistently green. Perfect for showcasing your daily coding habit!
-
+![Repository Showcase](overview.gif)
 ## Features
 
 - **Automated Commits**: Set it and forget it! Commit changes to your repo automatically.
