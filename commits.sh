@@ -13,3 +13,10 @@ do
    git commit -m "🎉✅ Finished implementing feature updates and optimizations 🚀"  # Commit with the message
    git push # origin main                         # Push the commit to the remote repository
 done
+
+# Clean up the repository after finishing the loop
+   rm -rf COMMITS.md
+   git add COMMITS.md
+   git commit -m "🎉✅ Finished implementing feature updates and optimizations 🚀"
+   git push # origin main
+   
