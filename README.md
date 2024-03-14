@@ -63,6 +63,25 @@ Contributions are welcome! If you have improvements or bug fixes, please open a 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## :warning: Important Disclaimer: Ensuring Your Contributions Count
+
+To make sure your contributions using `AutoGitCommit` are accurately reflected on your GitHub contributions graph, please ensure the following steps are carefully followed:
+
+### :email: Email Configuration
+Commits are associated with your GitHub profile based on the email address used for commits. Ensure the email address set in your Git configuration is linked to your GitHub account. You can link multiple email addresses to your GitHub account by visiting the **Settings > Emails** section of your GitHub profile.
+
+### :white_check_mark: Verify Your Email Address
+After adding an email address to your GitHub account, you must verify it. GitHub will send a verification email to the address you added. Click the verification link within this email to confirm that you own the email address.
+
+### :lock: Consider Email Privacy Settings
+If you have enabled email privacy in your GitHub settings, ensure that the commits are made using the private email address provided by GitHub (`username@users.noreply.github.com`). This email is used to associate your commits with your GitHub account while keeping your actual email address private.
+
+### :heavy_check_mark: Include Private Contributions (Optional)
+If you're making commits to a private repository and wish for these contributions to appear on your GitHub profile, enable the "Include private contributions on my profile" option in the GitHub profile settings.
+
+By ensuring these settings are correctly configured, you'll help guarantee that your contributions are properly showcased on your GitHub profile's contributions graph.
+
+
 ## Acknowledgments
 
 - Inspired by the desire to showcase consistent coding activity on GitHub.
