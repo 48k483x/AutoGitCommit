@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Function to print progress spinner
 print_progress() {
     local pid=$1
